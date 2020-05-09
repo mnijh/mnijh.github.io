@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#theme: jekyll-theme-so-simple
 
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
@@ -47,7 +48,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-
+§
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
 
