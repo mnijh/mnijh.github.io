@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: posts
+layout: posts2
 permalink: /publications-year/
 taxonomy: Papers
 entries_layout: grid
