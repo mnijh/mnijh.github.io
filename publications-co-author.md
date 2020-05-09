@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: tag2
+layout: tag
 permalink: /publications-co-author/
 entries_layout: grid
 taxonomy: 'Co-Author'

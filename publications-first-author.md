@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: tag2
+layout: tag
 permalink: /publications-first-author/
 entries_layout: grid
 sort_order: reverse

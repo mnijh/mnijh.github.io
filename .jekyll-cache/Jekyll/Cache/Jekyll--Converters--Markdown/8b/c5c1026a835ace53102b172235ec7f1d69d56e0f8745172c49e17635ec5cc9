@@ -1,0 +1,19 @@
+I"�<p>A tabulated Equation of state for water based on “AQUA: A Collection of H2O Equation of State for Planetary Models, Haldemann et al. (submitted)”</p>
+
+<p><img src="/assets/pictures/AQUA_title.jpg" alt=" /assets/pictures/AQUA_title.jpg" class="align-right" />
+<em>© Jonas Haldemann</em></p>
+
+<p>The tabulated equation of state (EoS) contains data for density, adiabatic temperature gradient, entropy, internal energy and bulk speed of sound on a pressure temperature grid. It combines the EoS of Mazevet et al. (2019) with EoS at lower temperatures and pressures, namely:</p>
+
+<ul>
+  <li>Feistel &amp; Wagner (2006) (Ice Ih)</li>
+  <li>Journaux et al. (2020) (Ice II, III, V, VI)</li>
+  <li>French &amp; Redmer (2015) (Ice VII, X)</li>
+  <li>Wagner &amp; Pruss (2002) (liquid and gas, below 1 GPa and below 1200 K)</li>
+  <li>Brown (2018) (liquid above 1 GPa, below 10’000 K)</li>
+  <li>CEA package by Gordon (1994) and McBride (1996)</li>
+</ul>
+
+<p>Repository containing the tabulated Equation of state: <a class="social-icon" href="https://github.com/mnijh/aqua"><i class="fab fa-github fa-2x" title="https://github.com/mnijh/aqua"></i></a></p>
+
+:ET

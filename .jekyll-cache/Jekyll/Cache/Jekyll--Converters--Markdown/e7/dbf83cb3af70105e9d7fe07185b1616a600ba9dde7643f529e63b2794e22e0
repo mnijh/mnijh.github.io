@@ -1,0 +1,6 @@
+I"ü<p>Water is one of the key chemical elements in planetary structure modelling. Due to its complex phase diagram, equations of state cover often only parts of the pressure â€“ temperature space needed in planetary modelling.
+We construct an equation of state of H_2O spanning a very wide range from 0.1 Pa to 400 TPa and 150 K to \(10^{5}\) K, which can be used to model the interior of planets.
+We combine equations of state valid in localized regions to form a continuous equation of state spanning over said pressure and temperature range.
+We provide tabulated values for the most important thermodynamic quantities, i.e., density, adiabatic temperature gradient, entropy, internal energy and bulk speed of sound of water over this pressure and temperature range. We discuss further the impact of this equation of state on the mass radius relation of planets compared to other popular equation of states.
+AQUA is a combination of existing equation of state useful for planetary models. We showed that AQUA is in most regions a thermodynamic consistent description of water. From the calculated mass radius relations we see that the choice of equation of state can have a large impact on said relation which highlights the importance of future development in this field.</p>
+:ET

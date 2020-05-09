@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 permalink: /CV/
 title: Curriculum Vitae
 caption: Jonas Ahldemann
