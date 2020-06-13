@@ -13,6 +13,7 @@ caption: Jonas Ahldemann
 Since September 2016
 : PhD Student at the University of Bern
 : Supervisor: Prof. Willy Benz & Prof. Yann Alibert
+: SNF-Project: Formation and Evolution of planetary systems 
 
 Since January 2017
 : Administrator of the high performance computing cluster of the theoretical astrophyisics & planetary sciences group (HORUS)
@@ -36,6 +37,9 @@ February 2015 -- Bachelor of Science in Physics
 + Spanish (A2)
 
 ## Awarded Grants
+#### 2020
++ SNF Flexibility Grant 7000.- CHF
+
 #### 2019
 + SNF Flexibility Grant 4000.- CHF
 

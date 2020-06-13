@@ -103,6 +103,14 @@ defaults:
       layout: post
       share: true
 
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 # Site Author
 
 # Footer Links
