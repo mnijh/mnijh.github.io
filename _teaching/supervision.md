@@ -8,4 +8,4 @@ excerpt: 'Some projects I supervised or Co-supervised'
 - Anja Gauch (2020, Thesis: TBD, Co-supervision)
 
 # Interns
-- Arnaud Michel (2019, Summer Intern, Publication: [Planetary mass-radius relations across the galaxy]({% post_url 2020-05-06-MR-galaxy %}))
+- Arnaud Michel (2019, Summer Intern, Publication: [Planetary mass-radius relations across the galaxy]({% post_url 2020-06-05-MR-galaxy %}))
