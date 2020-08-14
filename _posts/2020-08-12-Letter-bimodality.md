@@ -8,7 +8,7 @@ author:
   name: Venturini et al.
   links:
   - title: Arxiv.org
-    url: https://arxiv.org
+    url: https://arxiv.org/abs/2008.05513
     icon: far fa-file-pdf
 tags:
   - 'Co-Author'
