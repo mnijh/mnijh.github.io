@@ -1,8 +1,9 @@
 ---
-layout: page2
-permalink: /aqua/
 title: AQUA
+layout: page2
+permalink: "/aqua/"
 ---
+
 A tabulated Equation of state for water based on "AQUA: A Collection of H2O Equation of State for Planetary Models, Haldemann et al. (submitted)"
 
 ![ /assets/pictures/AQUA_title.jpg](/assets/pictures/AQUA_title.jpg){: .align-right}
@@ -17,7 +18,7 @@ The tabulated equation of state (EoS) contains data for density, adiabatic tempe
 + Brown (2018)<sup>[5](#brown2018)</sup> (liquid above 1 GPa, below 10'000 K)
 + CEA package by Gordon (1994)<sup>[6](#gordon1994)</sup> and McBride (1996)<sup>[7](#mcbride1996)</sup>
 
-Repository containing the tabulated Equation of state: <a class="social-icon" href="https://github.com/mnijh/aqua"><i class="fab fa-github fa-2x" title="https://github.com/mnijh/aqua"></i></a> (Public available as soon as accepted for publication.)
+Repository containing the tabulated Equation of state: <a class="social-icon" href="https://github.com/mnijh/AQUA"><i class="fab fa-github fa-2x" title="https://github.com/mnijh/AQUA"></i></a> .
 
 --- 
 
@@ -39,4 +40,3 @@ NASA Lewis Research Center<a name="gordon1994"></a>
 [7] : McBride, B. J. G. 1996, Computer Program for Calculation of Complex Chem-
 ical Equilibrium Compositions and Applications II. Users Manual and Pro-
 gram Description, Tech. rep., NASA Lewis Research Center<a name="mcbride1996"></a>
-
