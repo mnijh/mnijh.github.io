@@ -10,4 +10,4 @@ excerpt: 'Some tutorials for the community...'
 ---
 A great project by Jordan Ott. The Fortran Keras bridge allows you to link your Keras/Tensorflow models to your Fortran projects.
 
-[Read more ...](/tutorials/tutorial_fkb/){: .btn .btn--primary}
+[Read more ...]({{ site.baseurl }}{% link _teaching/tutorials/tutorial_fkb.md %}){: .btn .btn--primary}

@@ -6,4 +6,4 @@ entries_layout: grid
 taxonomy: 'Co-Author'
 ---
 
-[Publications sorted by year](/publications-year/){: .btn .btn--primary} [Publications as First Author](/publications-first-author/){: .btn .btn--primary} [Publications as Co-Author](/publications-co-author/){: .btn .btn--inverse}
+[Publications sorted by year]({{ site.baseurl }}{% link publications-by-year.md %}){: .btn .btn--primary} [Publications as First Author]({{ site.baseurl }}{% link publications-first-author.md %}){: .btn .btn--primary} [Publications as Co-Author]({{ site.baseurl }}{% link publications-co-author.md %}){: .btn .btn--inverse}
