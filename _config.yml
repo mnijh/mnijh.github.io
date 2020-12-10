@@ -127,3 +127,6 @@ footer_links:
   - title: University of Bern
     url: https://www.space.unibe.ch/about_us/personen/haldemann_jonas/index_eng.html
     icon: fas fa-university
+  - title: Twitter
+    url: https://twitter.com/m_n_i_j_h
+    icon: fab fa-twitter
