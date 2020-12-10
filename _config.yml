@@ -25,7 +25,7 @@ locale: en-US
 title: "Jonas Haldemann"
 description: "Astrophysicist"
 
-baseurl: "/simple_page" # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://mnijh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 logo: /assets/pictures/EPIC.svg# path of site logo, e.g. "/images/logo.png"
