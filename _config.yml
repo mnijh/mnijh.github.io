@@ -49,6 +49,9 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 
+google:
+  google-site-verification: "qJ3FBIuoQG-VGuGvYl-TNbuoIg4WFyj2gXpn87Us72M"
+
 twitter:
   username: "m_n_i_j_h" # site's Twitter username, e.g. "mmistakes"
 
