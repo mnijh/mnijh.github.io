@@ -52,5 +52,5 @@ science faculty of the University of Bern, 1500.-CHF.
 + Travel Grant from SSAA, 850.- CHF.
 
 [List of Publications](/publications-year/){: .btn .btn--inverse}
-[List of Talks & Posters](/publications-year/){: .btn .btn--inverse}
-[List of Conferences & Workshops](/publications-year/){: .btn .btn--inverse}
+[List of Talks & Posters](/talks/){: .btn .btn--inverse}
+[List of Conferences & Workshops](/conferences/){: .btn .btn--inverse}
