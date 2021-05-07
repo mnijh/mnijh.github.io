@@ -22,7 +22,7 @@ skin: "/assets/css/skins/default.css"
 
 locale: en-US
 
-title: "Jonas Haldemann"
+title: "Dr. Jonas Haldemann"
 description: "Astrophysicist"
 
 baseurl: "" # the subpath of your site, e.g. "/blog"
