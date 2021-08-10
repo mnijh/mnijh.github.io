@@ -10,15 +10,17 @@ caption: Jonas Ahldemann
 {% include toc %}
 ---
 ## Current Position
-Since September 2016
-: PhD Student at the University of Bern
-: Supervisor: Prof. Willy Benz & Prof. Yann Alibert
-: SNF-Project: Formation and Evolution of planetary systems 
-
-Since January 2017
-: Administrator of the high performance computing cluster of the theoretical astrophyisics & planetary sciences group (HORUS)
+Since August 2021
+: Teaching at Gymnasium Lerbermatt, Köniz, Switzerland
+: Independent Scientist
+: HPC-Advisor
 
 ## Education
+May 2021 -- PhD in Physic
+: Location: University of Bern
+: Supervisors: Prof. Willy Benz & Prof. Yann Alibert
+: Thesis: Characterization of the Internal Structure of Exoplanets
+
 October 2016 -- Master of Science in Physics (with specialisation in theoretical physics)
 : Location: University of Bern
 : Supervisor: PD Dr. Urs Wenger
@@ -27,8 +29,16 @@ October 2016 -- Master of Science in Physics (with specialisation in theoretical
 February 2015 -- Bachelor of Science in Physics
 : Location: University of Bern
 : Supervisor: Dr. Sigve Haug
-: Minor: Mathematics and Philosphy of Science
+: Minor-Subjects: Mathematics and Philosphy of Science
 : Thesis: ATLAS Discovery Potential of a Charged Higgs Boson Decay into $$\tilde{\chi}^0_2$$ , $$\tilde{\chi}^\pm_1$$ at 13 TeV at LHC
+
+## Further Experience
+Between January 2017 and July 2021
+: Administrator of the high performance computing cluster of the theoretical astrophyisics & planetary sciences group (HORUS)
+
+Between January 2016 and December 2020
+: Assistant at the Physics Institute of the University of Bern
+
 
 ## Languages
 + German (native)

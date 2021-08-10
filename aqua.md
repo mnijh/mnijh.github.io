@@ -4,7 +4,7 @@ layout: page2
 permalink: "/aqua/"
 ---
 
-A tabulated Equation of state for water based on "AQUA: A Collection of H2O Equation of State for Planetary Models, Haldemann et al. (submitted)"
+A tabulated Equation of state for water based on "AQUA: A Collection of H2O Equation of State for Planetary Models, [Haldemann et al. (2020)](https://doi.org/10.1051/0004-6361/202038367)"
 
 ![ /assets/pictures/AQUA_title.jpg](/assets/pictures/AQUA_title.jpg){: .align-right}
 *© Jonas Haldemann*
